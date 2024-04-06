@@ -1,0 +1,44 @@
+{
+  "name": "beck-depression-chart",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "author": {
+    "name": "Aleksey Komov",
+    "url": "http://lexxsoft.ru",
+    "email": "lexxyar@ya.ru"
+  },
+  "description": "Beck Depression Inventory",
+  "homepage": "http://lexxsoft.ru/dbi",
+  "keywords": [
+    "vue",
+    "js",
+    "шкала депрессии Бека",
+    "Медицина",
+    "Психиатрия",
+    "Психотерапия",
+    "Medicine",
+    "Psychiatry",
+    "Psychotherapy",
+    "Beck Depression Inventory",
+    "шкала Бека для оценки депрессии",
+    "шкала оценки депрессий Бека",
+    "BDI"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "dom-to-image": "^2.6.0",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "vite": "^5.2.0"
+  }
+}
